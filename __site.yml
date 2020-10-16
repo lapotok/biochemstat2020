@@ -1,0 +1,7 @@
+name: "Статистика в R для биохимиков"
+output_dir: "."
+navbar:
+  title: "Статистика в R для биохимиков"
+  left:
+    - text: "Home"
+      href: index.html

@@ -1,0 +1,42 @@
+---
+title: "Статистика в `R` для биохимиков - 2019"
+---
+
+*Альтшулер Е.П.*
+
+# Программа курса
+
+| Урок | Название | Материалы | Домашнее задание |
+|------|----------|-----------|------------------|
+| 0 | Установка `R` | [Инструкция](lessons/00__R_install.html) |  ---  |
+| 1 | Введение в `R` | [Введение](lessons/01_Syntax_intro.html), [Нормальность](lessons/01__norm.html) | [Задание](lessons/01_hw.html) |
+| 2 | Импорт и визуализация |  [Материалы урока](lessons/02_Import_correrr.html) |  [Задание](lessons/02_hw.html) |
+| 3 | Сравнение двух групп | [Материалы урока](lessons/03_comparisons.html) | --- |
+| 4 | Тесты и доверительные интервалы | [Доверительные интервалы](lessons/04_ci.html), [Тесты](lessons/04_comparison_tests.html) | [Задание](lessons/04_hw.html) |
+| 5 |  Регрессия | [Материалы урока](lessons/05_regression_new.html) |  --- |
+| 6 |  Регрессия (продолжение) | [Материалы урока](lessons/06_extras.html) |  --- |
+
+# Ресурсы
+
++ Курсы
+  + [Основы программирования на R (Stepik)](https://stepik.org/course/497/promo)
+  + [Анализ данных в R (Stepik)](https://stepik.org/course/129/promo)
+  + http://bdemeshev.github.io/r_cycle/
+  + [Просто о статистике (Coursera)](https://ru.coursera.org/specializations/prosto-o-statistike)
+  + [Statistics with R (Coursera)](https://www.coursera.org/specializations/statistics)
++ Книги
+  + Учебник по работе в `R` для экологов: [R-ecology](https://datacarpentry.org/R-ecology-lesson/index.html)
+  + [Pirate's Guide to R](https://bookdown.org/ndphillips/YaRrr/)
+  + [Cookbook for R](http://www.cookbook-r.com/)
+  + https://stat545.com/
+  + https://rafalab.github.io/dsbook/
++ Инструкции
+  + [R - веселый калькулятор](http://bdemeshev.github.io/r_cycle/cycle_files/08_fancy_calc.html) (очень полезное введение!)
+  + Визуализация: [DataViz](https://serialmentor.com/dataviz/)
+  + [STDHA portal](http://www.sthda.com/english/)
++ Современные тренды
+  + Справочник по использованию `R` на современном уровне: [R for Data Science (R4DS)](https://r4ds.had.co.nz/)
+  + Визуализация, моделирование, манипуляции с данными в `R` на современном уровне (если хочется делать все, как следует): [SocViz](http://socviz.co)
++ To be continued...
+    
+А здесь лежит [хорошая подборка ресурсов](https://github.com/bdemeshev/r_links) про R на русском (и не только) языке.
