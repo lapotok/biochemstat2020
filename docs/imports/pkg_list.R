@@ -1,4 +1,4 @@
-# Shortcut: source('https://raw.githubusercontent.com/lapotok/biochemstat2019/master/imports/pkg_list.R')
+# Shortcut: source('https://raw.githubusercontent.com/lapotok/biochemstat2020/main/docs/imports/pkg_list.R')
 
 options(repos = c(CRAN = "http://cran.rstudio.com"))
 
